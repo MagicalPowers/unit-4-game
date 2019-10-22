@@ -1,6 +1,7 @@
 # unit-4-game
 homework due tuesday oct22
 
+https://magicalpowers.github.io/unit-4-game/
 
 http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -15,10 +16,7 @@ Photo by Jason D on Unsplash
 Photo by zengxiao lin on Unsplash
 
 
-else {
-   everything == stolen;
-
-}
+everything else contained in these files has been stolen from but not limited to the following sources:
 -------------------------------
 https://getbootstrap.com/docs/4.0/about/license/
 License FAQs

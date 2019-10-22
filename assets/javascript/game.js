@@ -37,6 +37,8 @@ $(document).ready(function () {
     function function9() {
 
     };
+    // find this class, replace teh text with the value of global1
+    $("#trashtoguess").text(global1);
 
     //an un-non-reset function-adjacent concept
     function function10() {
@@ -52,8 +54,9 @@ $(document).ready(function () {
         var global10 = "";
 
     };
+    
     //this can be spoken of as an "on-click event" those words are a direct quote, stolen from whoever coined the phrase. i gues i should also say that this code is stolen from the example activites that we were shown in class.
-    $(".stolenjunk").on("click", function() {
+    $(".stolenjunk").on("click", function () {
         alert("did you leave your stove on?");
 
     });
