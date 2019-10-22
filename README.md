@@ -14,3 +14,8 @@ Photo by Jason D on Unsplash
 
 Photo by zengxiao lin on Unsplash
 
+
+else {
+   everything == stolen;
+
+}
